@@ -5,6 +5,10 @@ import java.util.Map;
 
 public class Level1 {
 
+    public void helloWorld(){
+        System.out.println("Hello World");
+    }
+
     public int kuadrat(int n){
         int akarKuadrat = 1;
         int nilaiAwal = n;
