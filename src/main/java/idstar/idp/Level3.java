@@ -31,6 +31,7 @@ public class Level3 {
             if(pilih==1||pilih==2||pilih ==3){
                 menuGenerateFile(pilih);
             }else if(pilih==0){
+                System.exit(0);
             }else{
                 System.out.println("Command not found");
             }
@@ -55,6 +56,7 @@ public class Level3 {
             if(input==1){
                 menu();
             }else if(input==0){
+                System.exit(0);
             }else{
                 System.out.println("Command not found");
             }    
@@ -71,6 +73,7 @@ public class Level3 {
             if(input==1){
                 menu();
             }else if(input==0){
+                System.exit(0);
             }else{
                 System.out.println("Command not found");
             }    
