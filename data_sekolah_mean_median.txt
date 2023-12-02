@@ -1,0 +1,8 @@
+KelasA : Mean 8.0, Median 8.0
+KelasB : Mean 8.0, Median 8.0
+KelasC : Mean 8.0, Median 8.0
+KelasD : Mean 8.0, Median 8.0
+KelasE : Mean 8.0, Median 8.0
+KelasF : Mean 8.0, Median 8.0
+KelasG : Mean 8.0, Median 8.0
+KelasH : Mean 8.0, Median 9.0
